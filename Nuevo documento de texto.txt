@@ -1,0 +1,9 @@
+<html>
+<!-- titulo -->
+<head>
+ <TITLE>PROYECTO 5G</TITLE>
+
+<link rel="shortcut icon" 
+href="\clase programacion\PROYECTO PAGINA\icono\devil2.ico">
+</head>
+</html>
